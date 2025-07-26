@@ -3,7 +3,7 @@
 This is a minimal and production-ready Fiber application set up for deployment on [Seenode](https://seenode.com).
 
 ### Deploy in Minutes
-Check our [Fiber deployment guide](https://seenode.com/docs/services/web-services/framework-guides/go/fiber/) for details.
+Check our [Fiber deployment guide](https://seenode.com/docs/frameworks/go/fiber/) for details.
 
 ## How to Deploy on Seenode
 
